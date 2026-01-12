@@ -1,0 +1,15 @@
+= RFD 1 Sample Published RFD
+Test Author <test@example.com>
+:state: published
+
+== Introduction
+
+This is a sample RFD for testing the rfd-site preview environment.
+
+== Background
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+== Proposal
+
+This RFD proposes a test proposal for preview purposes.

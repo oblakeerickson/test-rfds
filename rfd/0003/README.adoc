@@ -1,0 +1,11 @@
+= RFD 3 Sample Prediscussion RFD
+Test Author <test@example.com>
+:state: prediscussion
+
+== Introduction
+
+This RFD is in prediscussion state.
+
+== Ideas
+
+Some early ideas being explored.

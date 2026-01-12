@@ -1,0 +1,11 @@
+= RFD 2 Sample Discussion RFD
+Test Author <test@example.com>
+:state: discussion
+
+== Introduction
+
+This RFD is in discussion state.
+
+== Details
+
+Some details about the proposal.
